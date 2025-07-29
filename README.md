@@ -1,4 +1,4 @@
-# NTTAMSGenie
+# AMSGenie
 
 AMSGenie is a full-stack web application that leverages AI to generate code, automate pull request (PR) creation, and streamline code review workflows. It integrates with Azure OpenAI for code and PR description generation, and with GitHub for repository and PR management.
 
